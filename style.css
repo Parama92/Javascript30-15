@@ -45,6 +45,7 @@ html {
     padding: 10px 0;
     font-weight: 100;
     display: flex;
+    text-transform: capitalize;
   }
 
   .plates label {
